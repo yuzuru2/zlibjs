@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "parcel src/index.html --out-dir public"
+    "start": "parcel src/index.html --out-dir public",
+    "build": "parcel build ./src/index.html --public-url ./ -d public --no-source-maps"
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
