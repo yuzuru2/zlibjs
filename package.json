@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
-    "file-type": "^14.6.2",
+    "file-type": "^16.5.4",
     "parcel-bundler": "^1.12.4",
     "zlibjs": "^0.3.1"
   }
